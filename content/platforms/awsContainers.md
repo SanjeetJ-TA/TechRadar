@@ -1,6 +1,6 @@
 +++
-name= "Azure"
-image= "/images/platforms/Microsoft_Azure.png"
+name= "Containers on AWS"
+image= "/images/platforms/amazon-ecs-icon.png"
 category= "Platforms"
 ring= "Can Use"
 type="post"

@@ -1,8 +1,8 @@
 +++
-name= "Azure"
-image= "/images/platforms/Microsoft_Azure.png"
+name= "AWS EC2"
+image= "/images/platforms/ec2.png"
 category= "Platforms"
-ring= "Can Use"
+ring= "Deprecated"
 type="post"
 layout="details"
 +++

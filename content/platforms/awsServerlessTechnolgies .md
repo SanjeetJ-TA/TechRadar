@@ -1,12 +1,11 @@
 +++
-name= "Azure"
-image= "/images/platforms/Microsoft_Azure.png"
+name= "AWS Serverless Technologies (Lambda etc)"
+image= "/images/platforms/aws-lambda-icon.png"
 category= "Platforms"
-ring= "Can Use"
+ring= "Adopt"
 type="post"
 layout="details"
 +++
-
 # What is it ?
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Mauris pharetra ultricies lectus vitae elementum. Suspendisse neque nisl, venenatis vel nunc cursus, pharetra finibus elit. In aliquam nisl eu sapien pulvinar, ac ultrices justo tincidunt. Maecenas sed ipsum libero. Nulla porttitor, magna ac efficitur vestibulum, urna neque porttitor velit, ac imperdiet elit mauris vel neque. Vivamus et scelerisque libero. Aenean imperdiet dignissim viverra. Phasellus aliquet diam et velit auctor mollis. In pulvinar dolor tristique mollis dignissim. Nullam et sem ac odio interdum vehicula sed vel est.
 

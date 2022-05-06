@@ -2,7 +2,7 @@
 name= "Test Driven Development"
 image= "/images/techniques/tdd.png"
 category= "Techniques"
-ring= "Adopt"
+ring= "Can Use"
 type="post"
 layout="details"
 +++
