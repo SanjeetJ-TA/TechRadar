@@ -1,8 +1,8 @@
 +++
-name= "Clojure"
-image= "/images/languages-frameworks/clojure.png"
+name= "PHP"
+image= "/images/languages-frameworks/new-php-logo.png"
 category= "Languages-Frameworks"
-ring= "Assess"
+ring= "Deprecated"
 type="post"
 layout="details"
 +++

@@ -2,7 +2,7 @@
 name= "Java"
 image= "/images/languages-frameworks/java.png"
 category= "Languages-Frameworks"
-ring= "Adopt"
+ring= "Can Use"
 type="post"
 layout="details"
 +++

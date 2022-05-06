@@ -1,8 +1,8 @@
 +++
-name= "Visual Basic"
-image= "/images/languages-frameworks/vb.png"
+name= "Ionic"
+image= "/images/languages-frameworks/ionic.svg"
 category= "Languages-Frameworks"
-ring= "Deprecated"
+ring= "Adopt"
 type="post"
 layout="details"
 +++

@@ -1,7 +1,7 @@
 +++
-name= "Test Driven Development"
-image= "/images/libs/tdd.png"
-category= "Libs"
+name= "Cordova"
+image= "/images/languages-frameworks/cordova.png"
+category= "Languages-Frameworks"
 ring= "Adopt"
 type="post"
 layout="details"
