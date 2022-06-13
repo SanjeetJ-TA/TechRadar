@@ -1,8 +1,8 @@
 +++
-name= "Visual Basic"
-image= "/images/languages-frameworks/vb.png"
+name= "Rust"
+image= "/images/languages-frameworks/rust.png"
 category= "Languages-Frameworks"
-ring= "Deprecated"
+ring= "Assess"
 type="post"
 layout="details"
 +++

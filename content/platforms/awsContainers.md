@@ -2,7 +2,7 @@
 name= "Containers on AWS"
 image= "/images/platforms/amazon-ecs-icon.png"
 category= "Platforms"
-ring= "Can Use"
+ring= "Assess"
 type="post"
 layout="details"
 +++
