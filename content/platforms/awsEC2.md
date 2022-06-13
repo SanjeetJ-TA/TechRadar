@@ -2,7 +2,7 @@
 name= "AWS EC2"
 image= "/images/platforms/ec2.png"
 category= "Platforms"
-ring= "Deprecated"
+ring= "On Hold"
 type="post"
 layout="details"
 +++

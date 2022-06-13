@@ -31,7 +31,7 @@ To add new content to the radar :
 name= [name of the concept]
 image= [relative image url]
 category= [Languages-Frameworks or Platforms or Techniques or Tools]
-ring= [Adopt or Can Use or Assess or Deprecated]
+ring= [Adopt or Can Use or Assess or Hold]
 type="post"
 layout="details"
 +++

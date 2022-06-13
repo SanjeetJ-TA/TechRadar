@@ -2,7 +2,7 @@
 name= "PHP"
 image= "/images/languages-frameworks/new-php-logo.png"
 category= "Languages-Frameworks"
-ring= "Deprecated"
+ring= "On Hold"
 type="post"
 layout="details"
 +++
